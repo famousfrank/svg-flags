@@ -9,5 +9,7 @@ Check flag before use, it has gone through a resizing process as the source was 
 ## Credits
 
 Flags are imported mainly from these two repositories, serving in 4x3, 1x1 or other formats that 5x3.
+
 [flag-icon-css](https://github.com/lipis/flag-icon-css)
+
 [country-flags](https://github.com/hjnilsson/country-flags)
